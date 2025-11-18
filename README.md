@@ -39,8 +39,7 @@ https://birthday-template-x.vercel.app?name=YOUR_NAME
   python3 wish.py
 </pre>
 🧪 Usage
-
-Start the tool
+<pre>Start the tool
 
 Select a template (1–3)
 
@@ -49,10 +48,11 @@ Enter a name
 Receive your personalized birthday link
 
 Share anywhere!
+</pre>
 
 ✨ Example Output
 Your Birthday Wish Link:
-https://birthday-template-1.vercel.app?name=Root%20Nexus
+https://birthday-template-3.vercel.app?name=Root%20Nexus
 
 👨‍💻 Developer
 
