@@ -1,7 +1,10 @@
-# Birthday-Wish
-🎉 Birthday Wish Tool by Root Nexus
+# Birthday-Wish Tool
+🎉 Birthday Wish Tool by <b>Root Nexus</b>
 <div align="center">
-<span style="background-color:red; font-weight:bold;">Made in</span> <span style="background-color:green; font-weight:bold;">Bangladesh</span> 🇧🇩 <br><br>
+<p>
+  <img src="https://img.shields.io/badge/MADE%20IN-FF0000?style=flat-square&labelColor=FF0000&color=FF0000&logoColor=white">
+  <img src="https://img.shields.io/badge/BANGLADESH-008000?style=flat-square&labelColor=008000&color=008000&logoColor=white">🇧🇩
+</p><br>
 
 <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-000000?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/Developed%20By-Root%20Nexus-9D00FF?style=for-the-badge">
 
@@ -11,7 +14,7 @@ Birthday Wish is a premium, neon-hacker-styled Python CLI tool that generates in
 
 With a futuristic UI, clean animations, and perfect Termux/Linux support—this tool brings style + utility together.
 
-🚀 Features
+<h3>🚀 Features </h3>
 
 🟣 Cyberpunk ASCII Banner + Stylish UI
 
@@ -31,14 +34,17 @@ https://birthday-template-x.vercel.app?name=YOUR_NAME
 ⛔ Prevents invalid input + auto retry
 
 ⚡ Extremely fast & lightweight
+<br>
 
-📦 Installation
+<h3>📦 Installation</h3>
 <pre>
   git clone https://github.com/root-nexus44/Birthday-Wish.git
   cd Birthday-Wish
   python3 wish.py
 </pre>
-🧪 Usage
+<br>
+
+<h3>🧪 Usage</h3>
 <pre>Start the tool
 
 Select a template (1–3)
@@ -49,19 +55,20 @@ Receive your personalized birthday link
 
 Share anywhere!
 </pre>
+<br>
 
-✨ Example Output
+<h3>✨ Example Output</h3>
 Your Birthday Wish Link:
 https://birthday-template-3.vercel.app?name=Root%20Nexus
 
-👨‍💻 Developer
+<br>
+<h3>👨‍💻 Developer</h3>
 
-Root Nexus
+<b>Root Nexus</b>
 Cyber-Tools Developer | Python CLI Specialist | Termux Automation Expert
 
 📜 License
 
 Released under the MIT License – free for everyone.
 
-🇧🇩 Special Note
 <div align="center"> <b>This project is proudly built and open-sourced from Bangladesh.</b> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg" width="120"> </div>
