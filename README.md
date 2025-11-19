@@ -65,7 +65,7 @@ https://birthday-template-3.vercel.app?name=Root%20Nexus
 <h3>👨‍💻 Developer</h3>
 
 <b>Root Nexus</b>
-Cyber-Tools Developer | Python CLI Specialist | Termux Automation Expert
+Cyber-Tools Developer 
 
 📜 License
 
